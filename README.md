@@ -28,6 +28,35 @@ QuickCab is a modern cab booking application designed to streamline urban transp
 
 ---
 
+## 🚖 Driver Dashboard
+
+The **Driver Dashboard** allows cab drivers to manage their profile, availability, and ride status in real-time.
+
+### 🔹 Features
+
+- **Driver Profile Overview**
+  - `Name`: Displays the driver’s name.
+  - `Vehicle`: Shows the vehicle model and registration number.
+  - `Rating`: Displays the driver’s rating (e.g., 5.0 ★).
+  - `Total Rides`: Number of rides completed.
+  - `Availability Status`: Shows whether the driver is Online or Offline.
+  - `Go Offline/Online Button`: Toggle to update availability.
+
+- **📍 Live Location Tracking**
+  - Real-time location is displayed using [Leaflet](https://leafletjs.com/) with **OpenStreetMap**.
+  - Helps in assigning and tracking rides.
+
+- **🚗 Ride Status**
+  - **Active Ride**: Displays ride details when a ride is in progress.
+  - **No Active Ride**: Shows a message when no current ride is assigned.
+
+- **🕒 Ride History**
+  - **Recent Rides**: Displays a list of previously completed rides.
+  - If no rides have been completed, a placeholder message is shown.
+
+---
+
+
 ### 🛠️ **Admin**
 
 - **System Management**: Admins oversee the entire cab booking system, ensuring proper functionality and security.  
