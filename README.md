@@ -88,5 +88,16 @@ This is powered by dynamic map APIs, providing a seamless and interactive user e
 - **Node.js**  
 
 ---
+**OUTPUT SCREENSHOTS**
+
+![Screenshot 2025-04-13 185017](https://github.com/user-attachments/assets/f34e1d8f-7088-49ca-a126-627a4a091e75)
+![Screenshot 2025-04-13 184824](https://github.com/user-attachments/assets/dadd57db-2ed3-4941-ac2e-cc0e401ecbf1)![Screenshot 2025-04-13 184630](https://github.com/user-attachments/assets/20f6aeed-adf9-47bf-8828-f6279b353738)
+
+![Screenshot 2025-04-13 184908](https://github.com/user-attachments/assets/ba9885f4-f7df-4439-b8e1-03189468b04b)
+![Screenshot 2025-04-13 184532](https://github.com/user-attachments/assets/c9398f4c-4652-42d3-b8df-7da5842be57b)
+
+![Screenshot 2025-04-13 184824](https://github.com/user-attachments/assets/e7318f01-dc70-4790-9e82-a029af65076c)
+![Screenshot 2025-04-13 184753](https://github.com/user-attachments/assets/8178c0d3-a9a9-4bbb-a2a5-ac0487573e5a)
+
 
 > QuickCab – Bringing you closer to your destination, one ride at a time.
